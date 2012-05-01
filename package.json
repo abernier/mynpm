@@ -1,0 +1,20 @@
+{
+  "author": "Antoine BERNIER <antoine.bernier@gmail.com>",
+  "name": "mynpm",
+  "description": "A npm package experiment.",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/abernier/mynpm.git"
+  },
+  "main": "lib/",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
